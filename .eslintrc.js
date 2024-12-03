@@ -7,6 +7,7 @@ module.exports = {
     "import/order": [
       "error",
       {
+        endOfLine: "auto",
         groups: [
           "builtin",
           "external",
